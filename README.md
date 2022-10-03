@@ -6,12 +6,19 @@ Classification and Oversampling Algorithms Comparison, using Deep Feature Synthe
 ***CatBoost Model Pipeline***
 
 1-Imputer
+
 2-Encoder
+
 3-Scaler
+
 3-Balancer with SvmSmote
+
 4-Feature Genarator with FeatureTools using Deep Feature Synthesis
+
 5-Feature Selector with RFE
+
 6-HyperParameter Tuning with Bayesian Optimization
+
 7-Cross Validation with K-Fold Cross Validation
 
 ![CatBoost](https://user-images.githubusercontent.com/76845631/193552944-aa200516-46c8-4ac1-8c97-f5fab70f097f.png)
