@@ -191,3 +191,4 @@ xgboost==1.6.2
 zict==2.2.0
 zipp==3.8.1
 zoofs==0.1.25
+catboost==1.1
